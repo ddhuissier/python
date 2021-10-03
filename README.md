@@ -1,2 +1,2 @@
 # python
-Python projects
+Python mobile project with Kivy
